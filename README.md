@@ -3,7 +3,7 @@
 This repository contains the code and resources for a Credit Card Customer Segmentation project. The goal of this project was to analyze and segment customers of a bank using unsupervised learning techniques. The segmentation helps in understanding the distinct groups of customers, allowing for targeted marketing strategies to enhance customer satisfaction and optimize marketing campaigns.
 
 ## Project Overview
-
+<img src="Result.png">
 ### Data Processing and Cleaning
 - **Data Source**: 8,000 records of bank customer data spanning over 6 months.
 - **Tools Used**: Python, NumPy, pandas.

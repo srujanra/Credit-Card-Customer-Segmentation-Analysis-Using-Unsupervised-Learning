@@ -46,13 +46,6 @@ Ensure you have the following libraries installed:
 - scikit-learn
 - seaborn
 
-### Installation
-
-Clone the repository:
-```bash
-git clone https://github.com/yourusername/credit-card-customer-segmentation.git
-cd credit-card-customer-segmentation
-```
 
 ### Usage
 

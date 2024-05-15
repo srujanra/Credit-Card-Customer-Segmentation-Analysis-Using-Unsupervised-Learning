@@ -46,6 +46,14 @@ Ensure you have the following libraries installed:
 - scikit-learn
 - seaborn
 
+### Installation
+
+Clone the repository:
+```bash
+git clone https://github.com/srujanra/Credit-Card-Customer-Segmentation-Analysis-Using-Unsupervised-Learning.git
+
+cd credit-card-customer-segmentation
+```
 
 ### Usage
 
@@ -64,11 +72,6 @@ Ensure you have the following libraries installed:
 
 Contributions are welcome! Please open an issue or submit a pull request for any improvements or new features.
 
-
 ## Acknowledgements
 
 - Thanks to the open-source community for the libraries and tools used in this project.
-
----
-
-Feel free to modify any part of this description to better suit your project's specifics.
